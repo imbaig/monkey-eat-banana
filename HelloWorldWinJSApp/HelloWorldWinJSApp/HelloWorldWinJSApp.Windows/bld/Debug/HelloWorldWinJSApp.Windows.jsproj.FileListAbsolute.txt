@@ -1,0 +1,15 @@
+C:\Users\imbaig\Documents\GitHub\monkey-eat-banana\HelloWorldWinJSApp\HelloWorldWinJSApp\HelloWorldWinJSApp.Windows\bin\Debug\ReverseMap\resources.pri
+C:\Users\imbaig\Documents\GitHub\monkey-eat-banana\HelloWorldWinJSApp\HelloWorldWinJSApp\HelloWorldWinJSApp.Windows\bin\Debug\AppxManifest.xml
+C:\Users\imbaig\Documents\GitHub\monkey-eat-banana\HelloWorldWinJSApp\HelloWorldWinJSApp\HelloWorldWinJSApp.Windows\bin\Debug\HelloWorldWinJSApp.Windows.build.appxrecipe
+C:\Users\imbaig\Documents\GitHub\monkey-eat-banana\HelloWorldWinJSApp\HelloWorldWinJSApp\HelloWorldWinJSApp.Windows\bld\Debug\priconfig.xml
+C:\Users\imbaig\Documents\GitHub\monkey-eat-banana\HelloWorldWinJSApp\HelloWorldWinJSApp\HelloWorldWinJSApp.Windows\bld\Debug\priconfig.xml.intermediate
+C:\Users\imbaig\Documents\GitHub\monkey-eat-banana\HelloWorldWinJSApp\HelloWorldWinJSApp\HelloWorldWinJSApp.Windows\bld\Debug\layout.resfiles
+C:\Users\imbaig\Documents\GitHub\monkey-eat-banana\HelloWorldWinJSApp\HelloWorldWinJSApp\HelloWorldWinJSApp.Windows\bld\Debug\layout.resfiles.intermediate
+C:\Users\imbaig\Documents\GitHub\monkey-eat-banana\HelloWorldWinJSApp\HelloWorldWinJSApp\HelloWorldWinJSApp.Windows\bld\Debug\resources.resfiles
+C:\Users\imbaig\Documents\GitHub\monkey-eat-banana\HelloWorldWinJSApp\HelloWorldWinJSApp\HelloWorldWinJSApp.Windows\bld\Debug\resources.resfiles.intermediate
+C:\Users\imbaig\Documents\GitHub\monkey-eat-banana\HelloWorldWinJSApp\HelloWorldWinJSApp\HelloWorldWinJSApp.Windows\bld\Debug\pri.resfiles
+C:\Users\imbaig\Documents\GitHub\monkey-eat-banana\HelloWorldWinJSApp\HelloWorldWinJSApp\HelloWorldWinJSApp.Windows\bld\Debug\pri.resfiles.intermediate
+C:\Users\imbaig\Documents\GitHub\monkey-eat-banana\HelloWorldWinJSApp\HelloWorldWinJSApp\HelloWorldWinJSApp.Windows\bld\Debug\qualifiers.txt
+C:\Users\imbaig\Documents\GitHub\monkey-eat-banana\HelloWorldWinJSApp\HelloWorldWinJSApp\HelloWorldWinJSApp.Windows\bld\Debug\qualifiers.txt.intermediate
+C:\Users\imbaig\Documents\GitHub\monkey-eat-banana\HelloWorldWinJSApp\HelloWorldWinJSApp\HelloWorldWinJSApp.Windows\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\imbaig\Documents\GitHub\monkey-eat-banana\HelloWorldWinJSApp\HelloWorldWinJSApp\HelloWorldWinJSApp.Windows\bld\Debug\ProjectArchitectures.txt

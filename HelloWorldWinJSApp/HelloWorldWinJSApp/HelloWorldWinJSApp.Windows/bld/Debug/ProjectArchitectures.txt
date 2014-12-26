@@ -1,0 +1,1 @@
+C:\Users\imbaig\Documents\GitHub\monkey-eat-banana\HelloWorldWinJSApp\HelloWorldWinJSApp\HelloWorldWinJSApp.Windows\HelloWorldWinJSApp.Windows.jsproj;neutral
